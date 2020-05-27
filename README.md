@@ -1,4 +1,4 @@
-##연락처 서비스 API 사용방법
+연락처 서비스 API 사용방법
 
 http://github.com/stepanowon/contactsvc
 
@@ -10,7 +10,7 @@ $ npm install
 
 $ npm run start
 
-##3000번 포트를 구동해놓고 Vue CLI프로젝트 실행
+3000번 포트를 구동해놓고 Vue CLI프로젝트 실행
 
 Package
 
