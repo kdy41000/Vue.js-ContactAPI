@@ -11,6 +11,7 @@ $ npm install
 $ npm run start
 
 
+
 3000번 포트를 구동해놓고 Vue CLI프로젝트 실행
 
 Package
